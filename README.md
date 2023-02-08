@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Łukasz 👋
 
 <!--
 **kmk00/kmk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Things I want to learn in 2023
-<img src="{https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white}" /> <img src="{https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black}" /> <img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}" />
+
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
